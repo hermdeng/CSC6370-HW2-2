@@ -1,0 +1,17 @@
+.img{
+  height:350px;
+  position:relative;
+  background-image:url("http://previews.123rf.com/images/memoangeles/memoangeles1406/memoangeles140600009/29116207-Angry-poulet-de-bande-dessin-e-clip-art-vecteur-illustration-avec-des-d-grad-s-simples-Tout-en-une-s-Banque-d'images.jpg");
+  background-size:200px;
+  background-repeat: no-repeat;
+  background-position:bottom;
+}
+.p{
+  text-align:center;
+  font-size:35px;
+  font-weight:bold;
+}
+.search{
+  margin: 0 auto;
+	max-width: 400px;
+}
